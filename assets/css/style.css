@@ -1,0 +1,83 @@
+body{
+    background-image: url(/assets/images/background.png);
+    background-repeat:repeat;
+}
+
+h1{
+    background-image: url(/assets/images/crystals.png);
+    background-position: center;
+    border:1px solid red;
+    width:250px;
+    padding:20px;
+    text-align:center;
+    font-size:30px;
+    font-weight: bold;
+    margin:20px;
+    border-radius:15px;
+    color:black;
+}
+
+img{
+    height:50px;
+    border:1px solid red;
+    border-radius: 5px;
+    padding:3px;
+    background-color:white;
+    margin:0px 0px 20px 20px;
+}
+
+ul{
+    background-image: url(/assets/images/crystals.png);
+    background-position: center;
+    border:1px solid red;
+    width:500px;
+    padding:10px;
+    margin:0px 0px 20px 20px;
+    border-radius:15px;
+    font-weight: bold;
+    color:black;
+}
+
+li{
+    margin:20px 0px 20px 0px;
+}
+
+#goal{
+    background-image: url(/assets/images/crystals.png);
+    background-position: center;
+    border:1px solid red;
+    border-radius:15px;
+    padding:30px;
+    width:50px;
+    text-align: center;
+    margin:0px 0px 20px 20px;
+    font-size:50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color:black;
+}
+
+.box1{
+    background-image: url(/assets/images/crystals.png);
+    background-position: center;
+    border:1px solid red;
+    border-radius:15px;
+    padding:30px;
+    margin:0px 0px 20px 20px;
+    width:200px;
+    font-size:20px;
+    font-weight: bold;
+}
+
+.box2{
+    background-image: url(/assets/images/crystals.png);
+    background-position: center;
+    border:1px solid red;
+    border-radius:15px;
+    padding:30px;
+    margin:0px 0px 20px 20px;
+    width:200px;
+    font-size:20px;
+    font-weight:bold;
+}
+
