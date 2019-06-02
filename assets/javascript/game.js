@@ -56,13 +56,3 @@ gem4El.addEventListener("click",function(){
 
 })
 
-// start game function
-
-var started = false
-
-function startGame() {
-
-    started = true;
-
-    
-}
